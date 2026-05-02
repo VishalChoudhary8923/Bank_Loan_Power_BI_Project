@@ -92,7 +92,7 @@ All 23 DAX measures were independently validated using SQL queries in SSMS run d
 
 👉 Full validation report: [`Docs/validation_report.md`](Docs/validation_report.md)  
 👉 SQL queries: [`SQL/validation_queries.sql`](SQL/validation_queries.sql)  
-👉 Results CSV: [`SQL/results/kpi_validation_results.csv`](SQL/results/kpi_validation_results.csv)
+👉 Results CSV: [`SQL/Results/kpi_validation_results.csv`](SQL/Results/kpi_validation_results.csv)
 
 ---
 

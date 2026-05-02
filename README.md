@@ -70,7 +70,7 @@ This project analyzes a bank's loan portfolio to monitor lending performance, bo
 ### Bad Loan KPIs — `Charged Off` (4 measures)
 `Bad Loan %` · `Bad Loan Applications` · `Bad Loan Funded Amount` · `Bad Loan Received Amount`
 
-👉 Full DAX code: [`Dax/measures.md`](dax/measures.md)
+👉 Full DAX code: [`Dax/measures.md`](Dax/measures.md)
 
 ---
 
@@ -90,9 +90,9 @@ All 23 DAX measures were independently validated using SQL queries in SSMS run d
 | Bad Loan KPIs | 4 | ✅ All match |
 | Overview Visuals (State, Term, Purpose, etc.) | 8 | ✅ All match |
 
-👉 Full validation report: [`Docs/validation_report.md`](docs/validation_report.md)  
-👉 SQL queries: [`Sql/validation_queries.sql`](sql/validation_queries.sql)  
-👉 Results CSV: [`Sql/results/kpi_validation_results.csv`](sql/results/kpi_validation_results.csv)
+👉 Full validation report: [`Docs/validation_report.md`](Docs/validation_report.md)  
+👉 SQL queries: [`SQL/validation_queries.sql`](SQL/validation_queries.sql)  
+👉 Results CSV: [`SQL/results/kpi_validation_results.csv`](SQL/results/kpi_validation_results.csv)
 
 ---
 

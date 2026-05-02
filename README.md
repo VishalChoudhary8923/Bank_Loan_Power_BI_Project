@@ -70,7 +70,7 @@ This project analyzes a bank's loan portfolio to monitor lending performance, bo
 ### Bad Loan KPIs — `Charged Off` (4 measures)
 `Bad Loan %` · `Bad Loan Applications` · `Bad Loan Funded Amount` · `Bad Loan Received Amount`
 
-👉 Full DAX code: [`dax/measures.md`](dax/measures.md)
+👉 Full DAX code: [`Dax/measures.md`](dax/measures.md)
 
 ---
 
@@ -90,9 +90,9 @@ All 23 DAX measures were independently validated using SQL queries in SSMS run d
 | Bad Loan KPIs | 4 | ✅ All match |
 | Overview Visuals (State, Term, Purpose, etc.) | 8 | ✅ All match |
 
-👉 Full validation report: [`docs/validation_report.md`](docs/validation_report.md)  
-👉 SQL queries: [`sql/validation_queries.sql`](sql/validation_queries.sql)  
-👉 Results CSV: [`sql/results/kpi_validation_results.csv`](sql/results/kpi_validation_results.csv)
+👉 Full validation report: [`Docs/validation_report.md`](docs/validation_report.md)  
+👉 SQL queries: [`Sql/validation_queries.sql`](sql/validation_queries.sql)  
+👉 Results CSV: [`Sql/results/kpi_validation_results.csv`](sql/results/kpi_validation_results.csv)
 
 ---
 
@@ -105,21 +105,21 @@ All 23 DAX measures were independently validated using SQL queries in SSMS run d
 ├── 📊 Bank_Loan_Project.pbix                ← Power BI project file
 ├── 📄 financial_loan.csv                    ← Source dataset (38,576 records)
 │
-├── 📁 dax/
+├── 📁 Dax/
 │   ├── measures.md                          ← All 23 DAX measures with code
 │   └── calculated_columns.md               ← Calculated column definitions
 │
-├── 📁 sql/
+├── 📁 SQL/
 │   ├── validation_queries.sql               ← 31 SQL validation queries
 │   └── results/
 │       └── kpi_validation_results.csv       ← DAX vs SQL comparison (all ✅)
 │
-├── 📁 screenshots/
+├── 📁 Screenshots/
 │   ├── summary_page.png
 │   ├── overview_page.png
 │   └── details_page.png
 │
-└── 📁 docs/
+└── 📁 Docs/
     └── validation_report.md                 ← Full DAX vs SQL validation report
 ```
 

@@ -137,4 +137,4 @@ All 23 DAX measures were independently validated using SQL queries in SSMS run d
 
 ## 📬 Contact
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-choudhary) or raise a GitHub Issue for any questions!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-choudhary-finance-analytics) or raise a GitHub Issue for any questions!

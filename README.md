@@ -21,7 +21,7 @@ This project analyzes a bank's loan portfolio to monitor lending performance, bo
 
 | Summary | Overview | Details |
 |---------|----------|---------|
-| ![Summary](screenshots/summary_page.png) | ![Overview](screenshots/overview_page.png) | ![Details](screenshots/details_page.png) |
+| ![Summary](Screenshots/summary_page.png) | ![Overview](Screenshots/overview_page.png) | ![Details](Screenshots/details_page.png) |
 
 ---
 

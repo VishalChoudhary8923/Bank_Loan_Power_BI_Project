@@ -112,5 +112,5 @@ MoM % = (MTD Value − PMTD Value) / PMTD Value × 100
 All **31 SQL queries** across **23 DAX measures** and **8 Overview visuals** were validated.  
 Power BI DAX results match SSMS SQL outputs — confirming the dashboard is **accurate and production-ready**.
 
-> 📋 Raw SQL values: [`sql/results/kpi_validation_results.csv`](../sql/results/kpi_validation_results.csv)  
-> 🔍 All SQL queries: [`sql/validation_queries.sql`](../sql/validation_queries.sql)
+> 📋 Raw SQL values: [`SQL/results/kpi_validation_results.csv`](../SQL/results/kpi_validation_results.csv)  
+> 🔍 All SQL queries: [`SQL/validation_queries.sql`](../SQL/validation_queries.sql)

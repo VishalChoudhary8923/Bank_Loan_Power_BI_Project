@@ -1,0 +1,24 @@
+KPI,Category,SQL_Query_No,Power_BI_DAX_Value,SSMS_SQL_Value,Match
+Total Loan Applications,Core,1,38576,38576,✅
+MTD Loan Applications (Dec 2021),Core,2,4314,4314,✅
+PMTD Loan Applications (Nov 2021),Core,3,4035,4035,✅
+Total Funded Amount,Core,4,"$435,757,075","$435,757,075",✅
+MTD Funded Amount (Dec 2021),Core,5,"$53,981,425","$53,981,425",✅
+PMTD Funded Amount (Nov 2021),Core,6,"$47,754,825","$47,754,825",✅
+Total Amount Received,Core,7,"$473,070,933","$473,070,933",✅
+MTD Amount Received (Dec 2021),Core,8,"$58,074,380","$58,074,380",✅
+PMTD Amount Received (Nov 2021),Core,9,"$50,132,030","$50,132,030",✅
+Avg Interest Rate,Core,10,12.05%,12.0488%,✅
+MTD Avg Interest Rate (Dec 2021),Core,11,12.4%,12.3560%,✅
+PMTD Avg Interest Rate (Nov 2021),Core,12,11.94%,11.9417%,✅
+Avg DTI,Core,13,13.3%,13.3274%,✅
+MTD Avg DTI (Dec 2021),Core,14,13.7%,13.6655%,✅
+PMTD Avg DTI (Nov 2021),Core,15,13.3%,13.3027%,✅
+Good Loan %,Good Loan,16,86.2%,86.1753%,✅
+Good Loan Applications,Good Loan,17,33243,33243,✅
+Good Loan Funded Amount,Good Loan,18,"$370,224,850","$370,224,850",✅
+Good Loan Amount Received,Good Loan,19,"$435,786,170","$435,786,170",✅
+Bad Loan %,Bad Loan,20,13.8%,13.8247%,✅
+Bad Loan Applications,Bad Loan,21,5333,5333,✅
+Bad Loan Funded Amount,Bad Loan,22,"$65,532,225","$65,532,225",✅
+Bad Loan Amount Received,Bad Loan,23,"$37,284,763","$37,284,763",✅

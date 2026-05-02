@@ -282,4 +282,4 @@ Good loans returned **$65.6M more than funded** — reflecting healthy interest 
 
 ---
 
-*Report generated from Power BI Bank Loan Dashboard | Data: January–December 2021 | All KPIs validated against SQL Server*
+*Data: January–December 2021 | All KPIs validated against SQL Server*

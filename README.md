@@ -125,6 +125,12 @@ All 23 DAX measures were independently validated using SQL queries in SSMS run d
 
 ---
 
+## 🔗 Live Dashboard
+
+> 📊 **[View Live Power BI Report](https://app.powerbi.com/groups/me/reports/60e7d309-7d51-4203-8a3c-17bc121f6d3e/c2180d86806a280be010?experience=power-bi)**
+
+---
+
 ## 🚀 How to Use
 
 1. Clone or download this repository
